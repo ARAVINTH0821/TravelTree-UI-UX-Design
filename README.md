@@ -32,7 +32,7 @@ UI/UX Design & Interactive Prototype
 
 ### Home Page
 
-![TravelTree Home](TT-1png)
+![TravelTree Home](TT-1.png)
 
 ### Destinations
 
